@@ -1,4 +1,14 @@
 body {
+  background-color: yellow;
+  font-family: arial;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+
+/*body {
   font-size: 20px;
 }
 
@@ -23,4 +33,4 @@ a {
 .entry a {
   font-family: arial;
   color: yellow;
-}
+}*/
